@@ -11,6 +11,7 @@ Elastic Stack SIEM Configuration and Management: Successfully set up and configu
 
 
 <h2>Environments and Technologies Used</h2>
+
 - VMWARE
 - Elastic Stack SIEM
 
@@ -18,7 +19,7 @@ Elastic Stack SIEM Configuration and Management: Successfully set up and configu
 
 <h2>Operating Systems Used </h2>
 
--Kali Linux 
+- Kali Linux 
 
 <h2>Deployment and Configuration Steps</h2>
 
