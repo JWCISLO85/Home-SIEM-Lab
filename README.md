@@ -2,7 +2,7 @@
 Home SIEM Lab
 
 <p align="center">
-<img src="https://d3ml3b6vywsj0z.cloudfront.net/website/product-images/Elastic_stack_(ELK).png" alt="Elastic SIEM Logo"/>
+![alt text](https://duckduckgo.com/?q=Elastic+stack+siem+logo&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fd3ml3b6vywsj0z.cloudfront.net%2Fwebsite%2Fproduct-images%2FElastic_stack_(ELK).png)
 </p>
 
 <h1>Deploying Home SIEM Lab (Elastic Stack SIEM)</h1>
