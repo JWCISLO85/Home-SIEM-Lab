@@ -2,7 +2,7 @@
 Home SIEM Lab
 
 <p align="center">
-<img src="https://d3ml3b6vywsj0z.cloudfront.net/website/product-images/Elastic_stack_(ELK).png alt="Elastic SIEM Logo"/>
+<img src="https://d3ml3b6vywsj0z.cloudfront.net/website/product-images/Elastic_stack_(ELK).png" alt="Elastic SIEM Logo"/>
 </p>
 
 <h1>Deploying Active Directory in the Cloud (Azure)</h1>
