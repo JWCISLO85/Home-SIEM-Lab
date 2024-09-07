@@ -28,6 +28,8 @@ Elastic Stack SIEM Configuration and Management: Successfully set up and configu
 
 
 <h2>Security Event Simulation</h2>
+
+
 ![image](https://github.com/user-attachments/assets/4634da49-64d2-4762-aefa-69d17519c84f)
 
 -Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. 
