@@ -1,8 +1,5 @@
 # Home SIEM (Security Incident Event Management) Lab (Elastic Stack SIEM)
-Home SIEM Lab
-
-
-
+         
  <p align="center"> 
  
   ![Elastic_stack_(ELK)](https://github.com/user-attachments/assets/38656a1a-5252-4d64-b095-1ecc9d41e428)
