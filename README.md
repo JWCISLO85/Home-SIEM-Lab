@@ -38,6 +38,7 @@ Elastic Stack SIEM Configuration and Management: Successfully set up and configu
 - Enhanced skills in network security monitoring and threat detection.
 
 <h2>Visualization and Alerting in SIEM</h2>
+
 - Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition.
 - Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management. 
 
