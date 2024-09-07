@@ -2,7 +2,8 @@
 Home SIEM Lab
 
 <p align="center">
-![alt text](https://d3ml3b6vywsj0z.cloudfront.net/website/product-images/Elastic_stack_(ELK).png)
+![Elastic_stack_(ELK)](https://github.com/user-attachments/assets/38656a1a-5252-4d64-b095-1ecc9d41e428)
+
 </p>
 
 <h1>Deploying Home SIEM Lab (Elastic Stack SIEM)</h1>
