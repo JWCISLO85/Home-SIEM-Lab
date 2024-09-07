@@ -32,13 +32,13 @@ Elastic Stack SIEM Configuration and Management: Successfully set up and configu
 
 ![image](https://github.com/user-attachments/assets/4634da49-64d2-4762-aefa-69d17519c84f)
 
--Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. 
--Proficient in querying Elastic SIEM to identify and investigate security incidents. E
--Enhanced skills in network security monitoring and threat detection.
+- Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. 
+- Proficient in querying Elastic SIEM to identify and investigate security incidents. E
+- Enhanced skills in network security monitoring and threat detection.
 
 <h2>Visualization and Alerting in SIEM</h2>
--Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition.
--Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management. 
+- Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition.
+- Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management. 
 
 ![image](https://github.com/user-attachments/assets/b67ef7c8-3dbc-4ed9-9523-6fa87af73e26)
 
