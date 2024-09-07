@@ -6,7 +6,7 @@ Home SIEM Lab
 </p>
 
 <h1>Deploying Home SIEM Lab (Elastic Stack SIEM)</h1>
-This is a project that I did outlining the implementation of Active Directory within Azure Virtual Machines.<br />
+Elastic Stack SIEM Configuration and Management: Successfully set up and configured Elastic Stack SIEM in a home lab environment. Demonstrated proficiency in deploying a Kali Linux VM, configuring Elastic Agents for log collection, and forwarding data to the SIEM for effective security event monitoring.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -28,5 +28,18 @@ This is a project that I did outlining the implementation of Active Directory wi
 
 
 <h2>Security Event Simulation</h2>
+![image](https://github.com/user-attachments/assets/4634da49-64d2-4762-aefa-69d17519c84f)
+
+-Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. 
+-Proficient in querying Elastic SIEM to identify and investigate security incidents. E
+-Enhanced skills in network security monitoring and threat detection.
+
+<h2>Visualization and Alerting in SIEM</h2>
+-Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition.
+-Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management. 
+
+![image](https://github.com/user-attachments/assets/b67ef7c8-3dbc-4ed9-9523-6fa87af73e26)
+
+
 
 
