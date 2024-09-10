@@ -1,4 +1,4 @@
-# Home SIEM (Security Incident Event Management) Lab (Elastic Stack SIEM)
+# Home SIEM (Security Information Event Management) Lab (Elastic Stack SIEM)
          
  <p align="center"> 
  
